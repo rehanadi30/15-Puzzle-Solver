@@ -6,7 +6,9 @@ Program ini dapat memeriksa ketersediaan solusi dan memberikan solusi terbaik un
 
 Anda hanya memerlukan python untuk menjalankan program ini
 
-### Execution
+### Running the program
+
+ATTENTION!!! Windows dan Linux memiliki cara yang sama untuk mengeksekusi program ini
 
 1. Buka terminal di folder src
 2. Silakan modifikasi matriks input di file input.txt sesuai format yang telah diberikan
