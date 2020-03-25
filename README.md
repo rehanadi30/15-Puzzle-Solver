@@ -12,7 +12,7 @@ ATTENTION!!! Windows dan Linux memiliki cara yang sama untuk mengeksekusi progra
 
 1. Buka terminal di folder src
 2. Silakan modifikasi matriks input di file input.txt sesuai format yang telah diberikan
-3. Jika mengambil input dari folder testcase, pastikan input ada di folder src dan telah direname menjadi "input.txt"
+3. Jika mengambil input dari folder test, pastikan input ada di folder src dan telah direname menjadi "input.txt"
 4. Eksekusi line berikut di terminal:
 
 ```
